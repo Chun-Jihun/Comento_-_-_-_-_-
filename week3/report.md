@@ -1,10 +1,10 @@
 # Google Dialogflow를 이용하여 시나리오 구현하기
 ## 목차
-  1. 시나리오
-  2. Intent
-  3. Entities
-  4. Intent가 이어진 순서
-  5. 테스트 및 훈련 문구
+  [1. 시나리오](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week3/report.md#시나리오)
+  [2. Intent](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week3/report.md#Intent)
+  [3. Entities](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week3/report.md#Entities)
+  [4. Intent가 이어진 순서](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week3/report.md#Intent가 이어진 순서)
+  [5. 테스트 및 훈련 문구](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week3/report.md#테스트 및 훈련 문구)
 ## 시나리오
   [시나리오 참고](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week2/report.md)
 ## Intent
