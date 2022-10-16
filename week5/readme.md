@@ -1,9 +1,9 @@
 # 인공지능을 활용한 챗봇 구축 기획부터 설계, 구현 A to Z - 5주차 과제
 ## 목차
-[1. 챗봇 서비스에 대한 사전조사](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#챗봇-서비스에-대한-사전조사)
-[2. 챗봇 서비스 예상 시나리오](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#챗봇-서비스-예상-시나리오)
-[3. 시나리오를 기반으로 한 Dialogflow 작성](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#시나리오를-기반으로-한-Dialogflow-작성)
-[4. 고객에게 예약내역을 확인하는 remind기능 추가](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#고객에게-예약내역을-확인하는-remind기능-추가)
+1. [챗봇 서비스에 대한 사전조사](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#챗봇-서비스에-대한-사전조사)
+2. [챗봇 서비스 예상 시나리오](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#챗봇-서비스-예상-시나리오)
+3. [시나리오를 기반으로 한 Dialogflow 작성](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#시나리오를-기반으로-한-Dialogflow-작성)
+4. [고객에게 예약내역을 확인하는 remind기능 추가](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#고객에게-예약내역을-확인하는-remind기능-추가)
   - [변경한 부분]
   - [추가한 부분]
   - [결과]
