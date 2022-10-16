@@ -18,7 +18,7 @@
   @bool (콘도가 있는지 확인하여 true면 예약진행, false면 로그아웃)   
   @condo_option (오전, 야간, 대인, 소인을 int로 저장)   
   @condo_type (서울한화콘도, 강원롯데콘도, 제주신화콘도를 저장   
-  @sys.date (예약 날짜를 date로 저장)
+  @sys.date (예약 날짜를 date로 저장)   
   @sys.number-integer(숙박인원을 int로 저장)
 ## Intent가 이어진 순서
   ![intent순서](https://user-images.githubusercontent.com/86049096/194510846-7011a8c9-208e-4bb3-b61e-95950c41a060.JPG)
