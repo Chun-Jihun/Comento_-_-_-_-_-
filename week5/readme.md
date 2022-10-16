@@ -8,11 +8,14 @@
   - [추가한 부분]
   - [결과]
 ### 챗봇 서비스에 대한 사전조사
-https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week1/report.md#%EC%B1%97%EB%B4%87-%EA%B8%B0%ED%9A%8D%EC%84%9C
+![image](https://user-images.githubusercontent.com/86049096/196031314-bf19e50b-cc7f-44f4-9bec-9fb12980e636.png)   
+[1주차 수행내용](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week1/report.md#%EC%B1%97%EB%B4%87-%EA%B8%B0%ED%9A%8D%EC%84%9C)
 ### 챗봇 서비스 예상 시나리오
-https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week2/report.md#%EC%BD%98%EB%8F%84-%EC%8B%A0%EC%B2%AD-%EC%98%88%EC%95%BD-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%EC%9E%91%EC%84%B1
+![image](https://user-images.githubusercontent.com/86049096/196031333-c955d128-25a5-48c6-a870-5924c8bdb667.png)   
+[2주차 수행내용](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week2/report.md#%EC%BD%98%EB%8F%84-%EC%8B%A0%EC%B2%AD-%EC%98%88%EC%95%BD-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%EC%9E%91%EC%84%B1)
 ### 시나리오를 기반으로 한 Dialogflow 작성
-https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week3/report.md#google-dialogflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
+![image](https://user-images.githubusercontent.com/86049096/196031352-486a15ec-eb0b-4f25-8af4-41d9dbb54574.png)   
+[3주차 수행내용](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week3/report.md#google-dialogflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 ### 고객에게 예약내역을 확인하는 remind기능 추가
 - 변경한 부분
 1. 처음 기획과는 다르게 condo_checkout intent를 제거하고 바로 condo_option으로 이어지도록 변경   
