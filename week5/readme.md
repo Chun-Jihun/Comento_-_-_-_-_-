@@ -27,5 +27,5 @@ https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week3/r
 ![image](https://user-images.githubusercontent.com/86049096/196026250-29470bd8-61a6-4b94-8de4-ab3a99a2d4c8.png)   
 2. smoking intent의 구성   
 ![image](https://user-images.githubusercontent.com/86049096/196026276-6e7507ba-6bf5-4a6d-afb3-2c3e4148d8f4.png)   
-- 결과
+- 결과   
 ![finalcheck](https://user-images.githubusercontent.com/86049096/196026429-f5c83337-c768-4041-aa86-03e6b3efe86c.jpg)
