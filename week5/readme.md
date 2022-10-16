@@ -4,9 +4,6 @@
 2. [챗봇 서비스 예상 시나리오](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#챗봇-서비스-예상-시나리오)
 3. [시나리오를 기반으로 한 Dialogflow 작성](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#시나리오를-기반으로-한-Dialogflow-작성)
 4. [고객에게 예약내역을 확인하는 remind기능 추가](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/tree/main/week5#고객에게-예약내역을-확인하는-remind기능-추가)
-  - [변경한 부분]
-  - [추가한 부분]
-  - [결과]
 ### 챗봇 서비스에 대한 사전조사
 [1주차 수행내용](https://github.com/Chun-Jihun/Comento_From_planning_to_chatbot/blob/main/week1/report.md#%EC%B1%97%EB%B4%87-%EA%B8%B0%ED%9A%8D%EC%84%9C)
 ### 챗봇 서비스 예상 시나리오
